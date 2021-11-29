@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vaccine-status/static/css/main.c6b245df.chunk.css",
+    "main.js": "/vaccine-status/static/js/main.749fe7e0.chunk.js",
+    "main.js.map": "/vaccine-status/static/js/main.749fe7e0.chunk.js.map",
+    "runtime-main.js": "/vaccine-status/static/js/runtime-main.94b067c1.js",
+    "runtime-main.js.map": "/vaccine-status/static/js/runtime-main.94b067c1.js.map",
+    "static/js/2.d9919152.chunk.js": "/vaccine-status/static/js/2.d9919152.chunk.js",
+    "static/js/2.d9919152.chunk.js.map": "/vaccine-status/static/js/2.d9919152.chunk.js.map",
+    "index.html": "/vaccine-status/index.html",
+    "static/css/main.c6b245df.chunk.css.map": "/vaccine-status/static/css/main.c6b245df.chunk.css.map",
+    "static/js/2.d9919152.chunk.js.LICENSE.txt": "/vaccine-status/static/js/2.d9919152.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94b067c1.js",
+    "static/js/2.d9919152.chunk.js",
+    "static/css/main.c6b245df.chunk.css",
+    "static/js/main.749fe7e0.chunk.js"
+  ]
+}
